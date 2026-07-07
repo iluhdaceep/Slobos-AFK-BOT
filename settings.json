@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "AfkBot",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "adobeacrobatpro.aternos.me",
     "port": 49586,
-    "version": "1.21.11"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
